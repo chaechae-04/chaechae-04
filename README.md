@@ -16,12 +16,12 @@
 - 협업/디자인: Figma, Notion, Git
 - 배포/인프라: Vercel, Netlify, Cloudflare, GitHub Actions
 
-## 사이드 작업물
-- 스타트업 랜딩페이지 – 혁신적인 서비스 소개를 위한 페이지 제작  
+## 샘플 프로젝트
+- [스타트업 랜딩페이지](https://startup-sample-xi.vercel.app) – 혁신적인 서비스 소개를 위한 페이지 제작  
   HTML + Tailwind CSS + JS 기반, 반응형 디자인과 성능 최적화 적용
-- 기업 홈페이지 – 브랜드 신뢰도 강화를 목표로 제작  
+- [기업 홈페이지](https://biz-landing-sample.vercel.app) – 브랜드 신뢰도 강화를 목표로 제작  
   HTML + Tailwind CSS + JS 기반, SEO 최적화 및 접근성 개선 반영
-- 이커머스 랜딩페이지 – 구매 전환율 향상을 위한 랜딩페이지 제작  
+- [이커머스 랜딩페이지](https://e-commerce-landing-sample.vercel.app) – 구매 전환율 향상을 위한 랜딩페이지 제작  
   HTML + Tailwind CSS + JS 기반, 인터랙션 강화와 전환율 최적화 구현
 
 ## 연락처
